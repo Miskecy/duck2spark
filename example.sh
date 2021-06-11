@@ -16,3 +16,5 @@ python duck2spark.py -i example.bin -l 4 -f 2500 -r 3000 -o example.ino
 rm example.bin
 
 echo "Example Sketch saved to: example.ino"
+
+echo pause
